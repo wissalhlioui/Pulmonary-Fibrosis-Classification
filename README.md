@@ -60,11 +60,19 @@ Several experiments were conducted to evaluate the impact of different training 
 
 ## VGG16 Model
 Confusion matrix obtained after training the VGG16 model for 10 epochs
+
+
 ![VGG16 Confusion Matrix ](images/confusion_matrix_vgg16_10epochs.png)  
+
+
 ## CNN Model
 Confusion matrix obtained after training the CNN model for 10 epochs
 ![CNN Confusion Matrix](images/confusion-matrix-cnn-10epochs.png)
+
+
 ## Vision Transformer (ViT) Model
+
+
 ![Model performance](images/accuracy-loss-curves-vits.png)
 
 Confusion matrix after 40 epochs:
