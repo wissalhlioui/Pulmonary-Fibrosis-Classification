@@ -73,7 +73,7 @@ Confusion matrix obtained after training the CNN model for 10 epochs
 ## Vision Transformer (ViT) Model
 
 
-![Model performance](images/accuracy-loss-curves-vits.png)
+![Model performance](images/curves-vits.png)
 
 Confusion matrix after 40 epochs:
 
