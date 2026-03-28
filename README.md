@@ -27,7 +27,6 @@ These images were used to train and evaluate the classification models.
 - **Programming Language:** Python  
 - **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, Torchvision, Matplotlib  
 
----
 ## Models 
 
 The primary model used in this project is the **Vision Transformer (ViT)**, which serves as the main architecture for pulmonary fibrosis classification.
