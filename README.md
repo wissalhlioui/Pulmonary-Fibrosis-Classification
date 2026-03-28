@@ -55,14 +55,14 @@ The following optimizers were tested:
 Several experiments were conducted to evaluate the impact of different training parameters on the model performance. These parameters include the number of epochs, batch size, and optimization algorithms such as Adam, AdamW, and Stochastic Gradient Descent (SGD). Adjusting these parameters allowed us to analyze how the models improve during the training process.
 ## Vision Transformer Architecture
 
-![Vision Transformer Model Architecture](images/vision-Transformer-architecture.png)
+![Vision Transformer Model Architecture](images/vision-transformer-architecture.png)
 ## Model Results
 
 ## VGG16 Model
 Confusion matrix obtained after training the VGG16 model for 10 epochs
 
 
-![VGG16 Confusion Matrix ](images/confusion_matrix_vgg16_10epochs.png)  
+![VGG16 Confusion Matrix ](images/confusion_matrix_vgg16_10_epochs.png)  
 
 
 ## CNN Model
