@@ -62,7 +62,7 @@ Several experiments were conducted to evaluate the impact of different training 
 Confusion matrix obtained after training the VGG16 model for 10 epochs
 
 
-![VGG16 Confusion Matrix ](images/confusion_matrix_vgg16_10_epochs.png)  
+![VGG16 Confusion Matrix ](images/confusion_matrix_vgg16_10_epochs.jpg)  
 
 
 ## CNN Model
@@ -77,7 +77,7 @@ Confusion matrix obtained after training the CNN model for 10 epochs
 
 Confusion matrix after 40 epochs:
 
-![ ViTsConfusion Matrix](images/confusion-matrix-vits-40epochs.png)
+![ ViTsConfusion Matrix](images/confusion-matrix-vits-40epochs.jpg)
 
 ## Note
 The **source code is confidential** and is not publicly shared. This repository contains only project documentation and example images.  
