@@ -55,7 +55,7 @@ The following optimizers were tested:
 Several experiments were conducted to evaluate the impact of different training parameters on the model performance. These parameters include the number of epochs, batch size, and optimization algorithms such as Adam, AdamW, and Stochastic Gradient Descent (SGD). Adjusting these parameters allowed us to analyze how the models improve during the training process.
 ## Vision Transformer Architecture
 
-![Vision Transformer Model Architecture](images/vision-transformer-architecture .png)
+![Vision Transformer Model Architecture](images/vision-transformer-architecture.png)
 ## Model Results
 
 ## VGG16 Model
